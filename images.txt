@@ -1,6 +1,2 @@
-nginx
-mysql:8.0.37
-redis:6.2.14
-elasticsearch:6.8.1
-apache/skywalking-oap-server:8.5.0-es6
-apache/skywalking-ui:8.5.0
+apache/skywalking-oap-server:10.1.0
+apache/skywalking-ui:10.1.0
