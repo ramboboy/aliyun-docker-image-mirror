@@ -1,5 +1,6 @@
 nginx
 mysql:8.0.37
 redis:6.2.14
-amuguelove/weixin-md:1.0.0
-halohub/halo:2.19
+elasticsearch:6.8.1
+apache/skywalking-oap-server:8.5.0-es6
+apache/skywalking-ui:8.5.0
