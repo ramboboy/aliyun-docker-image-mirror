@@ -1,3 +1,1 @@
-apache/skywalking-oap-server:10.1.0
-apache/skywalking-ui:10.1.0
-uozi/nginx-ui
+jc21/nginx-proxy-manager
