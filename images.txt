@@ -8,3 +8,5 @@ grafana/alloy:latest
 minio/minio:latest
 grafana/grafana:latest
 mingrammer/flog
+eclipse-temurin:21-jre
+ibm-semeru-runtimes:open-21-jre
