@@ -1,1 +1,1 @@
-alpine:latest
+ubuntu/squid
