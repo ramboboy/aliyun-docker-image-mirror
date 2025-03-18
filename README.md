@@ -1,4 +1,4 @@
-# Docker 镜像镜像工具
+# Docker Image Mirror 工具
 
 这个工具用于将 Docker 镜像从公共仓库拉取并推送到阿里云容器镜像服务。支持本地运行和 GitHub Actions 集成。
 
