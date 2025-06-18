@@ -24,11 +24,11 @@
 
 **新建命名空间：**
 
-![image-20240820135000743](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20240820135000743.png)
+![image-20240820135000743](images/01.png)
 
 **设置固定密码：**
 
-![image-20240820134544958](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20240820134544958.png)
+![image-20240820134544958](images/02.png)
 
 
 ### 本地配置
@@ -57,7 +57,7 @@ ALIYUN_REGISTRY_PASSWORD=your-password
 - `ALIYUN_REGISTRY_USER`
 - `ALIYUN_REGISTRY_PASSWORD`
 
-![image-20240820121528773](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20240820121528773.png)
+![image-20240820121528773](images/03.png)
 
 
 ## 镜像列表
@@ -118,14 +118,14 @@ docker-mirror
 
 工具已经集成到 GitHub Actions 工作流中。当推送到 main 分支或手动触发工作流时，将自动运行镜像任务。
 
-![image-20240820135354128](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20240820135354128.png)
+![image-20240820135354128](images/04.png)
 
 ## 查看镜像结果
-![image-20240820134021900](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20240820134021900.png)
+![image-20240820134021900](images/05.png)
 
-![image-20240820134106804](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20240820134106804.png)
+![image-20240820134106804](images/06.png)
 
-![image-20240820134209689](https://pic-bed-1256249917.cos.ap-chengdu.myqcloud.com/uPic/image-20240820134209689.png)
+![image-20240820134209689](images/07.png)
 
 
 ## 开发说明
