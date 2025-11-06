@@ -11,3 +11,4 @@ redis:6.2.14
 halohub/halo:2.20
 eclipse-temurin:21-jre
 ibm-semeru-runtimes:open-21-jre
+node:20-alpine
