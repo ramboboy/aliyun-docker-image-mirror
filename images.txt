@@ -1,14 +1,1 @@
-#用于测试脚本
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-#个人按需添加
-mysql:8.0.37
-redis:6.2.14
-halohub/halo:2.20
-eclipse-temurin:21-jre
-ibm-semeru-runtimes:open-21-jre
-node:20-alpine
+dragonwell/dragonwell:17
