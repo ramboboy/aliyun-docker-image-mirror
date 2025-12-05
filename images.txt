@@ -1,1 +1,1 @@
-dragonwell/dragonwell:17
+nacos/nacos-server:latest
